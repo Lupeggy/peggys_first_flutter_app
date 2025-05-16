@@ -6,7 +6,7 @@ class MELTextTheme {
   // Customizable Light Text Theme
   static TextTheme lightTextTheme = TextTheme(
     headlineLarge: const TextStyle().copyWith(
-      fontSize: 32.0,
+      fontSize: 33.0,
       fontWeight: FontWeight.bold,
       color: Colors.black,
     ),
